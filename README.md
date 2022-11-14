@@ -1,6 +1,8 @@
 # EDUX
 Liste de commandes dédié à l'éducation écrit en Pascal. 
 
+![image](https://user-images.githubusercontent.com/11842176/201684233-8b3af342-75d3-48df-993f-b2c88f2bf2a4.png)
+
 <h2>Liste des fichiers</h3>
 
 Voici la liste des différents fichiers proposés dans lettrex :
