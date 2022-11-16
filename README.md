@@ -15,7 +15,11 @@ Voici la liste des différents fichiers proposés dans lettrex :
   <tr>
       <td><b>ASTRQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ d'astronomie.</td>
-  </tr>  
+  </tr>
+  <tr>
+      <td><b>QUEBQUIZ.PAS</b></td>
+      <td>Cette commande permet de passer un QUIZ sur l'histoire du Québec.</td>
+  </tr>
   <tr>
       <td><b>MATHQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ de mathématique.</td>
