@@ -13,8 +13,12 @@ Voici la liste des différents fichiers proposés dans lettrex :
     <th>Description</th>
   </tr>
   <tr>
+      <td><b>ASTRQUIZ.PAS</b></td>
+      <td>Cette commande permet de passer un QUIZ d'astronomie.</td>
+  </tr>  
+  <tr>
       <td><b>MATHQUIZ.PAS</b></td>
-      <td>Cette commande permet permet de passer un QUIZ de mathématique.</td>
+      <td>Cette commande permet de passer un QUIZ de mathématique.</td>
   </tr>  
  </table>
 
