@@ -17,6 +17,9 @@ Voici la liste des différents fichiers proposés dans lettrex :
       <td>Cette commande permet de passer un QUIZ d'astronomie.</td>
   </tr>
   <tr>
+      <td><b>GEOQUIZ.PAS</b></td>
+      <td>Cette commande permet de passer un QUIZ de géographie.</td>  </tr> 
+  <tr>  
       <td><b>QUEBQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ sur l'histoire du Québec.</td>
   </tr>
