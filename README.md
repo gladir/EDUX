@@ -5,7 +5,7 @@ Liste de commandes dédié à l'éducation écrit en Pascal.
 
 <h2>Liste des fichiers</h3>
 
-Voici la liste des différents fichiers proposés dans lettrex :
+Voici la liste des différents fichiers proposés dans EDUX :
 
 <table>
   <tr>
