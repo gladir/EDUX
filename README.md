@@ -18,7 +18,12 @@ Voici la liste des différents fichiers proposés dans EDUX :
   </tr>
   <tr>
       <td><b>GEOQUIZ.PAS</b></td>
-      <td>Cette commande permet de passer un QUIZ de géographie.</td>  </tr> 
+      <td>Cette commande permet de passer un QUIZ de géographie.</td>  
+  </tr> 
+ <tr>
+	<td><b>LOGO.PAS</b></td>
+	<td>Cette commande permet de lancer l'interpréteur de commande du langage de programmation LOGO. Il supporte aussi la tortue.</td>
+ </tr>	
   <tr>  
       <td><b>QUEBQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ sur l'histoire du Québec.</td>
