@@ -24,14 +24,14 @@ Voici la liste des différents fichiers proposés dans EDUX :
 	<td><b>LOGO.PAS</b></td>
 	<td>Cette commande permet de lancer l'interpréteur de commande du langage de programmation LOGO. Il supporte aussi la tortue.</td>
  </tr>	
+  <tr>
+      <td><b>MATHQUIZ.PAS</b></td>
+      <td>Cette commande permet de passer un QUIZ de mathématique.</td>
+  </tr>  	
   <tr>  
       <td><b>QUEBQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ sur l'histoire du Québec.</td>
   </tr>
-  <tr>
-      <td><b>MATHQUIZ.PAS</b></td>
-      <td>Cette commande permet de passer un QUIZ de mathématique.</td>
-  </tr>  
 <tr>
 	<td><b>VERBS.PAS</b></td>
 	<td>Cette commande permet d'afficher les conjugaisons d'un verbe.</td>
