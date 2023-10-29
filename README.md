@@ -32,6 +32,10 @@ Voici la liste des différents fichiers proposés dans EDUX :
       <td><b>MATHQUIZ.PAS</b></td>
       <td>Cette commande permet de passer un QUIZ de mathématique.</td>
   </tr>  
+	<tr>
+		<td><b>TABLE.PAS</b></td>
+		<td>Cette commande permet d'afficher la table de multiplication d'un nombre.</td>
+	</tr>	
  </table>
 
 <h2>Compilation</h2>
